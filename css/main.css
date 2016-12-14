@@ -1,0 +1,41 @@
+
+body {
+    background-color: yellow;
+}
+
+.card, .jumbotron, .list-group-item {
+    background-color: palevioletred;
+}
+
+.iconic:hover{
+    color: orangered;
+}
+
+form {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+form h4 {
+    margin-bottom: 15px;
+}
+
+#map img {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+h1, h4{
+    font-family: 'Aref Ruqaa', serif;
+}
+body {
+    font-family: 'Slabo 27px', serif;
+}
+    a.nav-link{
+        color: black;
+    }
